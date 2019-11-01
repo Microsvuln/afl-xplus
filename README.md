@@ -14,7 +14,9 @@ Usage : just before running AFL against target for fuzzing do the following step
 ./afl-fuzz -i inp/ -o out/ -x textcases/ -- mytarget @@
 5) Happy fuzzing
 
-====================================================================================================
+===================================================
+
+
 ==================
 american fuzzy lop
 ==================
