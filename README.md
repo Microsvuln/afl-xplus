@@ -1,5 +1,5 @@
 # afl-xplus
-AFL Fuzzer with a bit of improvement to increase coverage by [@Microsvuln](https://twitter.com/microsvuln)
+AFL Fuzzer with a bit of improvement to increase code coverage by [@Microsvuln](https://twitter.com/microsvuln)
 
 AFL-xplus simply aims at improving code coverage using an idea originally developed by Brendan Dolan-Gavitt from Newyork University (@moyix)
 
