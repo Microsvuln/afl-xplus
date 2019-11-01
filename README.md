@@ -16,7 +16,7 @@ Usage : just before running AFL against target for fuzzing do the following step
 
 
 
-==================
+
 american fuzzy lop
 ==================
 
