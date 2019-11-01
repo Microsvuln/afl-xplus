@@ -10,8 +10,8 @@ Usage : just before running AFL against target for fuzzing do the following step
 1) execute ./axcov.sh script
 2) Give the full path to your target, example : /home/afl-xplus/mytarget , then hit enter & wait until finish
 3) Now you have a folder named "textcases", this is your dictionary for coverage improvement
-4) Run afl-fuzzer against the target with -x textcases/ switch, example :
-./afl-fuzz -i inp/ -o out/ -x textcases/ -- mytarget @@
+4) Run afl-fuzzer against the target with -x textcases/ switch, 
+example : ./afl-fuzz -i inp/ -o out/ -x textcases/ -- mytarget @@
 5) Happy fuzzing
 
 
